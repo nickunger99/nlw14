@@ -6,3 +6,4 @@
 ## npm expo start --clear
 ## npx expo install expo-font @expo-google-fonts/inter
 ## npm i clsx
+## npm install zustand
