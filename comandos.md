@@ -14,3 +14,11 @@
 
 ## npm create vite@latest
 ## npm run dev
+
+### tailwind doc
+```
+https://tailwindcss.com/docs/guides/vite
+```
+
+## npm install -D tailwindcss postcss autoprefixer
+## npx tailwindcss init -p
