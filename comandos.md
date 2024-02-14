@@ -9,6 +9,7 @@
 ## npm install zustand
 ## npm i react-native-keyboard-aware-scroll-view --save
 ## npx expo install @react-native-async-storage/async-storage
+---------------------------------------------------------------------
 
 # React
 
@@ -19,6 +20,10 @@
 ```
 https://tailwindcss.com/docs/guides/vite
 ```
-
 ## npm install -D tailwindcss postcss autoprefixer
 ## npx tailwindcss init -p
+
+## npm install @radix-ui/react-dialog
+## npm i date-fns
+## npm i lucide-react
+## npm install sonner
