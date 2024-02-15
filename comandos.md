@@ -27,3 +27,4 @@ https://tailwindcss.com/docs/guides/vite
 ## npm i date-fns
 ## npm i lucide-react
 ## npm install sonner
+## npm i -D @types/dom-speech-recognition
